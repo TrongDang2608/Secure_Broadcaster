@@ -1,0 +1,16 @@
+# Bỏ qua các file class đã biên dịch
+classes/
+*.class
+
+# Bỏ qua các file Keystore nhạy cảm
+*.jks
+*.keystore
+
+# Bỏ qua các file cấu hình của IDE
+.idea/
+.vscode/
+*.iml
+
+# Bỏ qua các file rác của Hệ điều hành
+.DS_Store
+Thumbs.db
