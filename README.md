@@ -55,4 +55,16 @@ java -cp classes SecureServer
 
 * Server sẽ khởi động.
 
+## Chạy Client:
 
+Mở terminal 2 (và 3, 4...):
+
+```bash
+java -cp classes SecureClient
+```
+
+* Nhấn nút "Kết nối".
+
+* Nhập cùng một mật khẩu Keystore.
+
+* Client sẽ kết nối thành công.
