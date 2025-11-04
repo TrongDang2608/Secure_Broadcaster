@@ -68,4 +68,7 @@ java -cp classes SecureClient
 
 * Nhập cùng một mật khẩu Keystore.
 
+àbausndiadiad
+bândkasndmasd
+àdbasjdnasd
 * Client sẽ kết nối thành công.
