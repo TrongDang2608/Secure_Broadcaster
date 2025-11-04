@@ -65,8 +65,6 @@ java -cp classes SecureClient
 ```
 
 * Nhấn nút "Kết nối".
-ạdbasjndakmdasd
-ga kdsnaksd
 
 * Nhập cùng một mật khẩu Keystore.
 
