@@ -71,5 +71,4 @@ java -cp classes SecureClient
 * Client sẽ kết nối thành công.
 ahdvabdask
 àbaidsiasd
-abfasdsd
-àbasdiasdwda
+
