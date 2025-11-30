@@ -1,4 +1,4 @@
-knkdmf   mdksdmfad,sl sjdnfkdsmd
+knkdmf   mdksdmfad,sl 
 # Dự án SecureBroadcaster (Server/Client SSL Java)
 
 Đây là một ứng dụng chat broadcast đa client đơn giản bằng Java, sử dụng GUI (Swing) và bảo mật SSL/TLS.
